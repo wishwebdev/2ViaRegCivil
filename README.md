@@ -6,19 +6,19 @@
 
 ## **Tecnologias Envolvidas**
 
-### **Nesse projeto vamos utilizar das seguintes ferramentas:**
-
-+ HTML5
-+ CSS3
-+ Js
-+ Google Sheets
-+ SheetsDB
-
-
-> ## **Status do Projeto**
+> ### **Nesse projeto vamos utilizar das seguintes ferramentas:**
 >
-> Atualmente → **Em progresso**
-> Versão → **Protótipo**
+> HTML5
+> CSS3
+> Js
+> Google Sheets
+> SheetsDB
+
+
+ ## **Status do Projeto**
+
+- Atualmente → **Em progresso**
+- Versão → **Protótipo**
 
 ## **Sobre classifacação do Status do Projeto**
 
