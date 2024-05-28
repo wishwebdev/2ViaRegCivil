@@ -2,11 +2,9 @@
 
 ## **Quem Somos**
 
-<p>O 2 Via de Registro Civil começa com a ideia de passar informações autenticas de como conseguir uma 2ª Via do seu registro ou de terceiros, a pricipio vamos mencionar a segunda via de certidão breve relato, o modelo simples que frequentemente é solicitado para que possamos renovar um documento, contrair um matrimonio, fazer prova de vida em bancos, e diversos outros fins</p>
+<p>O 2ª Via de Registro Civil começa com a ideia de passar informações autenticas de como conseguir uma 2ª Via do seu registro ou de terceiros, a pricipio vamos mencionar a segunda via de certidão breve relato, o modelo simples que frequentemente é solicitado para que possamos renovar um documento, contrair um matrimonio, fazer prova de vida em bancos, e diversos outros fins</p>
 
-## **Tecnologias Envolvidas**
-
-> ### **Nesse projeto vamos utilizar das seguintes ferramentas:**
+> ## **Tecnologias Envolvidas**
 >
 > HTML5<br>
 > CSS3<br>
