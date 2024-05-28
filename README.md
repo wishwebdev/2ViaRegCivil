@@ -8,11 +8,11 @@
 
 > ### **Nesse projeto vamos utilizar das seguintes ferramentas:**
 >
-> HTML5
-> CSS3
-> Js
-> Google Sheets
-> SheetsDB
+> HTML5<br>
+> CSS3<br>
+> JS<br>
+> Google Sheets<br>
+> SheetsDB<br>
 
 
  ## **Status do Projeto**
